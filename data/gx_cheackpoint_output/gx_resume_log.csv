@@ -1,0 +1,6 @@
+expectation;status_expectation;data_run;element_count
+expect_table_columns_to_match_ordered_list;True;2023-11-23T11:00:50.746462-03:00;45449
+expect_column_values_to_not_be_null;True;2023-11-23T11:00:50.746462-03:00;45449
+expect_column_values_to_be_between;True;2023-11-23T11:00:50.746462-03:00;45449
+expect_column_values_to_be_in_type_list;True;2023-11-23T11:00:50.746462-03:00;45449
+expect_column_values_to_match_strftime_format;True;2023-11-23T11:00:50.746462-03:00;45449
