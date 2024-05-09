@@ -34,7 +34,7 @@ O cenário utilizado foi baseado em uma validação onde alguns campos do arquiv
 * expect_column_values_to_be_in_type_list
   Espere que uma coluna contenha valores de uma lista de tipos especificados.      expect_column_values_to_be_in_type_list é uma expectativa de mapa de coluna para back-ends de coluna digitada e para PandasDataset, onde a coluna dtype fornece restrições inequívocas (qualquer dtype, exceto 'object'). Para colunas PandasDataset com dtype de 'object' expect_column_values_to_be_in_type_list verificará independentemente o tipo de cada linha.
 
-### 📦 Execução
+### 📦 Execução (VSCODE)
 ```
 1. Criar venv com comandeo python -m venv venv
 2. Após clonar o projeto ativar venv *.\venv\Scripts\Activate.ps1*
